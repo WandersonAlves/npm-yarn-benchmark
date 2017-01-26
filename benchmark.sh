@@ -2,9 +2,9 @@
 # Benchmark runner
 # Based on https://gist.github.com/peterjmit/3864743
 
-repeats=3
+repeats=2
 output_folder='reports'
-libraries=('angular2' 'ember' 'react')
+libraries=('emissao' 'sinistro')
 tools=('npm' 'yarn')
 base_dir=$PWD
 
